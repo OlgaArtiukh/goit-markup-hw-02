@@ -42,8 +42,8 @@ a .logostudio {
 .contacts-link:focus {
     color: #404bbf;
 }
-.nav-link:hover,
-.nav-link:focus {
+.klic:hover,
+.klic:focus {
     color: #404BBF;
 }
 .contacts{
@@ -62,7 +62,7 @@ font-style: normal;
    background-color: #2e2f42; 
 }
 .nameone {
-    
+
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
