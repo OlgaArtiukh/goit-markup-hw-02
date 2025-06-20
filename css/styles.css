@@ -46,6 +46,10 @@ a .logostudio {
 .klic:focus {
     background-color: #404BBF;
 }
+.nav-link {
+    color: #404bbf;
+}
+
 .contacts{
     font-style: normal;
 }
