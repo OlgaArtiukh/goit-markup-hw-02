@@ -40,11 +40,11 @@ a .logostudio {
 }
 .contacts-link:hover,
 .contacts-link:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 .klic:hover,
 .klic:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 .contacts{
     font-style: normal;
