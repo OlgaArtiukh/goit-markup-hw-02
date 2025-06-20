@@ -40,14 +40,15 @@ a .logostudio {
 }
 .contacts-link:hover,
 .contacts-link:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 .klic:hover,
 .klic:focus {
     background-color: #404BBF;
 }
-.nav-link {
-    color: #404bbf;
+.nav-link:hover,
+.nav-link:focus {
+     color: #404bbf;
 }
 
 .contacts{
