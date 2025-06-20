@@ -42,6 +42,10 @@ a .logostudio {
 .contacts-link:focus {
     color: #404bbf;
 }
+.nav-link:hover,
+.nav-link:focus {
+    color: #404BBF;
+}
 .contacts{
     font-style: normal;
 }
@@ -54,8 +58,11 @@ letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
 }
+.sectionnameone {
+   background-color: #2e2f42; 
+}
 .nameone {
-background-color: #2e2f42;
+    
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
